@@ -1,6 +1,4 @@
-
-
-![Adam R. Kosiorek]{:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
+![Jidin Dinesh](me.jpeg){:style="width: 200px; overflow: hidden; border-radius: 50%; float: right; padding-left: 20px"}
 
 Hi, I'm Adam.
 I'm passionate about machine learning, particularly machine reasoning and generative modelling.
